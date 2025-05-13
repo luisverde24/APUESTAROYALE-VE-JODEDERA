@@ -1,0 +1,14 @@
+C:\Users\LuisGVerde\source\repos\APUESTAROYALES\obj\Debug\net7.0\APUESTAROYALES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisGVerde\source\repos\APUESTAROYALES\obj\Debug\net7.0\APUESTAROYALES.AssemblyInfoInputs.cache
+C:\Users\LuisGVerde\source\repos\APUESTAROYALES\obj\Debug\net7.0\APUESTAROYALES.AssemblyInfo.cs
+C:\Users\LuisGVerde\source\repos\APUESTAROYALES\obj\Debug\net7.0\APUESTAROYALES.csproj.CoreCompileInputs.cache
+C:\Users\LuisGVerde\source\repos\APUESTAROYALES\bin\Debug\net7.0\APUESTAROYALES.exe
+C:\Users\LuisGVerde\source\repos\APUESTAROYALES\bin\Debug\net7.0\APUESTAROYALES.deps.json
+C:\Users\LuisGVerde\source\repos\APUESTAROYALES\bin\Debug\net7.0\APUESTAROYALES.runtimeconfig.json
+C:\Users\LuisGVerde\source\repos\APUESTAROYALES\bin\Debug\net7.0\APUESTAROYALES.dll
+C:\Users\LuisGVerde\source\repos\APUESTAROYALES\bin\Debug\net7.0\APUESTAROYALES.pdb
+C:\Users\LuisGVerde\source\repos\APUESTAROYALES\obj\Debug\net7.0\APUESTAROYALES.dll
+C:\Users\LuisGVerde\source\repos\APUESTAROYALES\obj\Debug\net7.0\refint\APUESTAROYALES.dll
+C:\Users\LuisGVerde\source\repos\APUESTAROYALES\obj\Debug\net7.0\APUESTAROYALES.pdb
+C:\Users\LuisGVerde\source\repos\APUESTAROYALES\obj\Debug\net7.0\APUESTAROYALES.genruntimeconfig.cache
+C:\Users\LuisGVerde\source\repos\APUESTAROYALES\obj\Debug\net7.0\ref\APUESTAROYALES.dll
